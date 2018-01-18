@@ -17,6 +17,7 @@
 
   <prerequisites>
     <maven>3.5.2</maven>
+           <maven>3.0.2</maven>
   </prerequisites>
 
 </project>
