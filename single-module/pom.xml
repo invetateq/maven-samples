@@ -168,7 +168,6 @@
 
   <prerequisites>
     <maven>3.0.3</maven>
-       <thiru>1.0.0</thiru>
   </prerequisites>
 
 </project>
